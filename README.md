@@ -15,7 +15,7 @@
 ```ts
 const me = {
   name: 'Jordan Begian',
-  title: 'Freelancing Software Developer',
+  title: 'Freelance Software Developer',
   workingWithClients: true,
   availableForHire: false,
   openToNetwork: true,
