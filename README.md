@@ -23,7 +23,7 @@ const me = {
     languages: ['JavaScript', 'TypeScript', 'Java', 'Kotlin',],
     frameworks: ['Node.js', 'Express', 'Spring Boot', 'Project Reactor',],
     databases: ['PostgreSQL', 'mySQL', 'MongoDB', 'Redis',],
-    utilities: ['Docker', 'Kubernetes', 'Terraform', 'Git', 'GitHub Actions',],
+    utilities: ['Docker', 'Kubernetes', 'Terraform', 'Git', 'GitHub Actions', 'Copilot', 'Ollama'],
     cloud: ['AWS', 'GCP', 'Azure',],
   },
 };
