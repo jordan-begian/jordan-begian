@@ -31,4 +31,4 @@ const me = {
 
 ## 🗣️ Contact Me
 
-🔗: [Contact Form](https://jordan-begian.github.io/contact-form-relay)
+🔗 [Contact Form](https://jordan-begian.github.io/contact-form-relay)
